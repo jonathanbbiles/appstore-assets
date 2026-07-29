@@ -1,0 +1,104 @@
+{
+  "app": "tassel",
+  "base_url": "https://jonathanbbiles.github.io/appstore-assets/tassel",
+  "slots": {
+    "ipad13": {
+      "label": "iPad 13\" / 12.9\"",
+      "asc_display_target": "APP_IPAD_PRO_3GEN_129",
+      "expect_pixels": "2048x2732",
+      "screenshots": [
+        {
+          "file": "01-welcome-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/01-welcome-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 2135538,
+          "md5": "717dd9af842f6d8a0613e0f98de5435b"
+        },
+        {
+          "file": "02-acts-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/02-acts-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 1664849,
+          "md5": "6c2c859fa3638af13eae19e4a69b603a"
+        },
+        {
+          "file": "03-actdetail-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/03-actdetail-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 990787,
+          "md5": "4ed3b8507e8f1ad12ac064c6d599a9c0"
+        },
+        {
+          "file": "04-closet-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/04-closet-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 1785506,
+          "md5": "c25c34ce00e4dab1df954fbe41ff3b12"
+        },
+        {
+          "file": "05-profile-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/05-profile-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 1478684,
+          "md5": "39d57a463162adb1a7e3b16ba38889be"
+        },
+        {
+          "file": "06-tuned-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/06-tuned-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 1455706,
+          "md5": "2fe63d6e78f166fad32171a7cd0fe831"
+        }
+      ]
+    },
+    "iphone69": {
+      "label": "iPhone 6.9\" / 6.7\"",
+      "asc_display_target": "APP_IPHONE_67",
+      "expect_pixels": "1290x2796",
+      "screenshots": [
+        {
+          "file": "01-welcome-iphone.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/01-welcome-iphone.png",
+          "pixels": "1290x2796",
+          "bytes": 1681845,
+          "md5": "c587d1b703a1ac02ecb93ced286352b2"
+        },
+        {
+          "file": "02-acts-iphone.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/02-acts-iphone.png",
+          "pixels": "1290x2796",
+          "bytes": 1323090,
+          "md5": "a8c2196537c358d4f845943aa56fb8e5"
+        },
+        {
+          "file": "03-actdetail-iphone.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/03-actdetail-iphone.png",
+          "pixels": "1290x2796",
+          "bytes": 777369,
+          "md5": "63bc42b46e55e639c503683a5dea7967"
+        },
+        {
+          "file": "04-closet-iphone.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/04-closet-iphone.png",
+          "pixels": "1290x2796",
+          "bytes": 1348639,
+          "md5": "7c9916954352edc22272edd3f3028042"
+        },
+        {
+          "file": "05-profile-iphone.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/05-profile-iphone.png",
+          "pixels": "1290x2796",
+          "bytes": 1213460,
+          "md5": "1be62e8f4dc2359e8ee73d4352ddb435"
+        },
+        {
+          "file": "06-tuned-iphone.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/06-tuned-iphone.png",
+          "pixels": "1290x2796",
+          "bytes": 1230613,
+          "md5": "0d5299f44db6bc677fa05d1b554fa4eb"
+        }
+      ]
+    }
+  }
+}
