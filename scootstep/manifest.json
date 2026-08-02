@@ -1,0 +1,55 @@
+{
+  "app": "scootstep",
+  "base_url": "https://jonathanbbiles.github.io/appstore-assets/scootstep",
+  "slots": {
+    "iphone69": {
+      "label": "iPhone 6.9\" / 6.7\"",
+      "asc_display_target": "APP_IPHONE_67",
+      "expect_pixels": "1290x2796",
+      "screenshots": [
+        {
+          "file": "01-iphone69_1_tonight.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/scootstep/iphone69/01-iphone69_1_tonight.png",
+          "pixels": "1290x2796",
+          "bytes": 761433,
+          "md5": "42474d5c0fd40b6cfc96d4b6d29616a1"
+        },
+        {
+          "file": "02-iphone69_2_library.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/scootstep/iphone69/02-iphone69_2_library.png",
+          "pixels": "1290x2796",
+          "bytes": 554692,
+          "md5": "e9a9fd2cca764cd18f58cb3224a7d20c"
+        },
+        {
+          "file": "03-iphone69_3_detail.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/scootstep/iphone69/03-iphone69_3_detail.png",
+          "pixels": "1290x2796",
+          "bytes": 618884,
+          "md5": "add36b07fb14abf7eb89aec9430b39cd"
+        },
+        {
+          "file": "04-iphone69_4_learn.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/scootstep/iphone69/04-iphone69_4_learn.png",
+          "pixels": "1290x2796",
+          "bytes": 474396,
+          "md5": "9d9dbffe3f849fae276640d3c4aa40fc"
+        },
+        {
+          "file": "05-iphone69_5_tempo.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/scootstep/iphone69/05-iphone69_5_tempo.png",
+          "pixels": "1290x2796",
+          "bytes": 440649,
+          "md5": "5f3629c66d4a253878d16053158832f3"
+        },
+        {
+          "file": "06-iphone69_6_basics.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/scootstep/iphone69/06-iphone69_6_basics.png",
+          "pixels": "1290x2796",
+          "bytes": 501942,
+          "md5": "977f7557b5ba3ea4b8d85732fda0a977"
+        }
+      ]
+    }
+  }
+}
