@@ -1,0 +1,132 @@
+{
+  "app": "moodie",
+  "base_url": "https://jonathanbbiles.github.io/appstore-assets/moodie",
+  "slots": {
+    "ipad13": {
+      "label": "iPad 13\" / 12.9\"",
+      "asc_display_target": "APP_IPAD_PRO_3GEN_129",
+      "expect_pixels": "2048x2732",
+      "screenshots": [
+        {
+          "file": "01-pick-your-mood-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/ipad13/01-pick-your-mood-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 203403,
+          "md5": "d54c7e1e41f69049ab58c31bba13bd5a"
+        },
+        {
+          "file": "02-your-pick-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/ipad13/02-your-pick-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 366179,
+          "md5": "a39787006bcc3360c16924fd1dcf4649"
+        },
+        {
+          "file": "03-watch-together-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/ipad13/03-watch-together-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 209550,
+          "md5": "a83a176f0872392d8bb3e8edd19253f0"
+        },
+        {
+          "file": "04-pass-the-phone-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/ipad13/04-pass-the-phone-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 229261,
+          "md5": "14b25749b881ac21eb945985177c0f42"
+        },
+        {
+          "file": "05-everyone-happy-ipad.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/ipad13/05-everyone-happy-ipad.png",
+          "pixels": "2048x2732",
+          "bytes": 513592,
+          "md5": "43dae3be10fcce5c1dff47af29446eb2"
+        }
+      ]
+    },
+    "iphone65": {
+      "label": "iPhone 6.5\" (legacy)",
+      "asc_display_target": "APP_IPHONE_65",
+      "expect_pixels": "1242x2688",
+      "screenshots": [
+        {
+          "file": "01-pick-your-mood-iphone65.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone65/01-pick-your-mood-iphone65.png",
+          "pixels": "1242x2688",
+          "bytes": 282603,
+          "md5": "75b242586a66bf7595e75299b84ecd53"
+        },
+        {
+          "file": "02-your-pick-iphone65.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone65/02-your-pick-iphone65.png",
+          "pixels": "1242x2688",
+          "bytes": 574481,
+          "md5": "f0b2f59e54cc86bf19186fe53732d4c6"
+        },
+        {
+          "file": "03-watch-together-iphone65.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone65/03-watch-together-iphone65.png",
+          "pixels": "1242x2688",
+          "bytes": 284661,
+          "md5": "1ade667b54b65983c2bfca08e938bb78"
+        },
+        {
+          "file": "04-pass-the-phone-iphone65.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone65/04-pass-the-phone-iphone65.png",
+          "pixels": "1242x2688",
+          "bytes": 317436,
+          "md5": "ec88dcae9cbf88ced4e930c60841131d"
+        },
+        {
+          "file": "05-everyone-happy-iphone65.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone65/05-everyone-happy-iphone65.png",
+          "pixels": "1242x2688",
+          "bytes": 749519,
+          "md5": "811b6585dd138d5ad096a77bbd14fba0"
+        }
+      ]
+    },
+    "iphone69": {
+      "label": "iPhone 6.9\" / 6.7\"",
+      "asc_display_target": "APP_IPHONE_67",
+      "expect_pixels": "1290x2796",
+      "screenshots": [
+        {
+          "file": "01-pick-your-mood-iphone69.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone69/01-pick-your-mood-iphone69.png",
+          "pixels": "1290x2796",
+          "bytes": 284221,
+          "md5": "e2d5a0a67ed82e86dd07e0a26c70fad0"
+        },
+        {
+          "file": "02-your-pick-iphone69.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone69/02-your-pick-iphone69.png",
+          "pixels": "1290x2796",
+          "bytes": 578897,
+          "md5": "5a4d2a9e80c6c97f06f46081b5f631ec"
+        },
+        {
+          "file": "03-watch-together-iphone69.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone69/03-watch-together-iphone69.png",
+          "pixels": "1290x2796",
+          "bytes": 285702,
+          "md5": "3629452c4c5aa781bed84e44abd0ba59"
+        },
+        {
+          "file": "04-pass-the-phone-iphone69.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone69/04-pass-the-phone-iphone69.png",
+          "pixels": "1290x2796",
+          "bytes": 326731,
+          "md5": "f6c88235b2b8c83692a187121a7e0fe6"
+        },
+        {
+          "file": "05-everyone-happy-iphone69.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/moodie/iphone69/05-everyone-happy-iphone69.png",
+          "pixels": "1290x2796",
+          "bytes": 810142,
+          "md5": "e61d14a88fe198ba7a002f37a1cf1821"
+        }
+      ]
+    }
+  }
+}
