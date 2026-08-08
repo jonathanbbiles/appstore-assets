@@ -1,102 +1,152 @@
 {
   "app": "tassel",
   "base_url": "https://jonathanbbiles.github.io/appstore-assets/tassel",
+  "generated_for": "1.2.0",
   "slots": {
-    "ipad13": {
-      "label": "iPad 13\" / 12.9\"",
-      "asc_display_target": "APP_IPAD_PRO_3GEN_129",
-      "expect_pixels": "2048x2732",
-      "screenshots": [
-        {
-          "file": "01-welcome-ipad.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/01-welcome-ipad.png",
-          "pixels": "2048x2732",
-          "bytes": 2135538,
-          "md5": "717dd9af842f6d8a0613e0f98de5435b"
-        },
-        {
-          "file": "02-acts-ipad.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/02-acts-ipad.png",
-          "pixels": "2048x2732",
-          "bytes": 1664849,
-          "md5": "6c2c859fa3638af13eae19e4a69b603a"
-        },
-        {
-          "file": "03-actdetail-ipad.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/03-actdetail-ipad.png",
-          "pixels": "2048x2732",
-          "bytes": 990787,
-          "md5": "4ed3b8507e8f1ad12ac064c6d599a9c0"
-        },
-        {
-          "file": "04-closet-ipad.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/04-closet-ipad.png",
-          "pixels": "2048x2732",
-          "bytes": 1785506,
-          "md5": "c25c34ce00e4dab1df954fbe41ff3b12"
-        },
-        {
-          "file": "05-profile-ipad.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/05-profile-ipad.png",
-          "pixels": "2048x2732",
-          "bytes": 1478684,
-          "md5": "39d57a463162adb1a7e3b16ba38889be"
-        },
-        {
-          "file": "06-tuned-ipad.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/06-tuned-ipad.png",
-          "pixels": "2048x2732",
-          "bytes": 1455706,
-          "md5": "2fe63d6e78f166fad32171a7cd0fe831"
-        }
-      ]
-    },
     "iphone69": {
       "label": "iPhone 6.9\" / 6.7\"",
       "asc_display_target": "APP_IPHONE_67",
       "expect_pixels": "1290x2796",
       "screenshots": [
         {
-          "file": "01-welcome-iphone.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/01-welcome-iphone.png",
+          "file": "01-hello-gorgeous.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/01-hello-gorgeous.png",
           "pixels": "1290x2796",
-          "bytes": 1681845,
-          "md5": "c587d1b703a1ac02ecb93ced286352b2"
+          "bytes": 1395255,
+          "md5": "2e0e1d599e594b40a0b453676e749337"
         },
         {
-          "file": "02-acts-iphone.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/02-acts-iphone.png",
+          "file": "02-your-style.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/02-your-style.png",
           "pixels": "1290x2796",
-          "bytes": 1323090,
-          "md5": "a8c2196537c358d4f845943aa56fb8e5"
+          "bytes": 695820,
+          "md5": "e10a624c9e63b5932fe9442adc828edf"
         },
         {
-          "file": "03-actdetail-iphone.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/03-actdetail-iphone.png",
+          "file": "03-your-colours.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/03-your-colours.png",
           "pixels": "1290x2796",
-          "bytes": 777369,
-          "md5": "63bc42b46e55e639c503683a5dea7967"
+          "bytes": 731897,
+          "md5": "ccbafd4705a5d038e5f9bd6bea5c0a0a"
         },
         {
-          "file": "04-closet-iphone.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/04-closet-iphone.png",
+          "file": "04-producers-setlist.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/04-producers-setlist.png",
           "pixels": "1290x2796",
-          "bytes": 1348639,
-          "md5": "7c9916954352edc22272edd3f3028042"
+          "bytes": 322856,
+          "md5": "ab96aa787b69eef7203c8543ac3a3801"
         },
         {
-          "file": "05-profile-iphone.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/05-profile-iphone.png",
+          "file": "05-app-themes.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/05-app-themes.png",
           "pixels": "1290x2796",
-          "bytes": 1213460,
-          "md5": "1be62e8f4dc2359e8ee73d4352ddb435"
+          "bytes": 245898,
+          "md5": "6f406fe39b02797f012f0c550395152b"
         },
         {
-          "file": "06-tuned-iphone.png",
-          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/06-tuned-iphone.png",
+          "file": "06-theme-applied.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone69/06-theme-applied.png",
           "pixels": "1290x2796",
-          "bytes": 1230613,
-          "md5": "0d5299f44db6bc677fa05d1b554fa4eb"
+          "bytes": 792120,
+          "md5": "5c4ba30d03eb1740b5e20686e333f034"
+        }
+      ]
+    },
+    "iphone65": {
+      "label": "iPhone 6.5\"",
+      "asc_display_target": "APP_IPHONE_65",
+      "expect_pixels": "1242x2688",
+      "screenshots": [
+        {
+          "file": "01-hello-gorgeous.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone65/01-hello-gorgeous.png",
+          "pixels": "1242x2688",
+          "bytes": 1318215,
+          "md5": "48acfb547004d9528096e29bb040e562"
+        },
+        {
+          "file": "02-your-style.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone65/02-your-style.png",
+          "pixels": "1242x2688",
+          "bytes": 678065,
+          "md5": "dce140814918a36b8536aae3e3ea578c"
+        },
+        {
+          "file": "03-your-colours.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone65/03-your-colours.png",
+          "pixels": "1242x2688",
+          "bytes": 682323,
+          "md5": "750aeb8d433c4cf1878e4ac36175486c"
+        },
+        {
+          "file": "04-producers-setlist.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone65/04-producers-setlist.png",
+          "pixels": "1242x2688",
+          "bytes": 319502,
+          "md5": "063fc2406770214d1d4482aff1c33a7e"
+        },
+        {
+          "file": "05-app-themes.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone65/05-app-themes.png",
+          "pixels": "1242x2688",
+          "bytes": 231442,
+          "md5": "3ffa9299847235d94a94c819c318722d"
+        },
+        {
+          "file": "06-theme-applied.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/iphone65/06-theme-applied.png",
+          "pixels": "1242x2688",
+          "bytes": 755434,
+          "md5": "11fa00a192b2d6b9786c948e53808dea"
+        }
+      ]
+    },
+    "ipad13": {
+      "label": "iPad 13\" / 12.9\"",
+      "asc_display_target": "APP_IPAD_PRO_3GEN_129",
+      "expect_pixels": "2048x2732",
+      "screenshots": [
+        {
+          "file": "01-hello-gorgeous.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/01-hello-gorgeous.png",
+          "pixels": "2048x2732",
+          "bytes": 1771306,
+          "md5": "43cdd169717feba2121fe507c6c57fea"
+        },
+        {
+          "file": "02-your-style.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/02-your-style.png",
+          "pixels": "2048x2732",
+          "bytes": 607097,
+          "md5": "2dc3c7425ced6946dff2c05be5ab5a87"
+        },
+        {
+          "file": "03-your-colours.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/03-your-colours.png",
+          "pixels": "2048x2732",
+          "bytes": 765926,
+          "md5": "675c08976c6ed8fa5b6169f464f2d3de"
+        },
+        {
+          "file": "04-producers-setlist.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/04-producers-setlist.png",
+          "pixels": "2048x2732",
+          "bytes": 241487,
+          "md5": "daf7b99055e969218dec758312fe1719"
+        },
+        {
+          "file": "05-app-themes.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/05-app-themes.png",
+          "pixels": "2048x2732",
+          "bytes": 332026,
+          "md5": "a743432a1fcdd1e9421e0dd705e06021"
+        },
+        {
+          "file": "06-theme-applied.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/tassel/ipad13/06-theme-applied.png",
+          "pixels": "2048x2732",
+          "bytes": 969278,
+          "md5": "2ea569fe15c6a41bbb65f528d6b1284d"
         }
       ]
     }
