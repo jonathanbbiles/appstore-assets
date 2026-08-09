@@ -1,0 +1,12 @@
+{
+  "base_url": "https://jonathanbbiles.github.io/appstore-assets/privacy",
+  "apps": [
+    {
+      "app": "tassel",
+      "wp_page_slug": "tassel",
+      "url": "https://jonathanbbiles.github.io/appstore-assets/privacy/tassel.json",
+      "md5": "7fc36c6d989cec6a78b2c130c00db51f",
+      "bytes": 1643
+    }
+  ]
+}
