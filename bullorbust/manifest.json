@@ -1,0 +1,90 @@
+{
+  "app": "bullorbust",
+  "base_url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust",
+  "slots": {
+    "ipad13": {
+      "label": "iPad 13\" / 12.9\"",
+      "asc_display_target": "APP_IPAD_PRO_3GEN_129",
+      "expect_pixels": "2048x2732",
+      "screenshots": [
+        {
+          "file": "01-ipad-13-1-learn-trade.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/ipad13/01-ipad-13-1-learn-trade.png",
+          "pixels": "2048x2732",
+          "bytes": 179435,
+          "md5": "b34153cf19dad0a08dad5c70050cd7ca"
+        },
+        {
+          "file": "02-ipad-13-2-learn-portfolio.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/ipad13/02-ipad-13-2-learn-portfolio.png",
+          "pixels": "2048x2732",
+          "bytes": 161508,
+          "md5": "6169f1509aca0dbe9654a0db5c1e545d"
+        },
+        {
+          "file": "03-ipad-13-3-learn-lessons.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/ipad13/03-ipad-13-3-learn-lessons.png",
+          "pixels": "2048x2732",
+          "bytes": 407785,
+          "md5": "fc5dd02313a0812493966950a69a076c"
+        },
+        {
+          "file": "04-ipad-13-4-live-paywall.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/ipad13/04-ipad-13-4-live-paywall.png",
+          "pixels": "2048x2732",
+          "bytes": 393547,
+          "md5": "64e414b971d195fff6eb6123f4f6d815"
+        },
+        {
+          "file": "05-ipad-13-5-live-connect.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/ipad13/05-ipad-13-5-live-connect.png",
+          "pixels": "2048x2732",
+          "bytes": 185055,
+          "md5": "bf4c232b74f9525c01613571e2ea2cc7"
+        }
+      ]
+    },
+    "iphone69": {
+      "label": "iPhone 6.9\" / 6.7\"",
+      "asc_display_target": "APP_IPHONE_67",
+      "expect_pixels": "1290x2796",
+      "screenshots": [
+        {
+          "file": "01-iphone-69-1-learn-trade.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/iphone69/01-iphone-69-1-learn-trade.png",
+          "pixels": "1290x2796",
+          "bytes": 189962,
+          "md5": "b9e7b5da6794f3b9f3a39d123c7522fb"
+        },
+        {
+          "file": "02-iphone-69-2-learn-portfolio.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/iphone69/02-iphone-69-2-learn-portfolio.png",
+          "pixels": "1290x2796",
+          "bytes": 198110,
+          "md5": "7106f3aede34fca485e9086529ec1b52"
+        },
+        {
+          "file": "03-iphone-69-3-learn-lessons.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/iphone69/03-iphone-69-3-learn-lessons.png",
+          "pixels": "1290x2796",
+          "bytes": 413090,
+          "md5": "0856bc7521a46e352e40390f45bf711f"
+        },
+        {
+          "file": "04-iphone-69-4-live-paywall.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/iphone69/04-iphone-69-4-live-paywall.png",
+          "pixels": "1290x2796",
+          "bytes": 406526,
+          "md5": "9605290a05e28f0d81338f5515557d88"
+        },
+        {
+          "file": "05-iphone-69-5-live-connect.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/bullorbust/iphone69/05-iphone-69-5-live-connect.png",
+          "pixels": "1290x2796",
+          "bytes": 249602,
+          "md5": "f58e07957d869443fa972600531ef7af"
+        }
+      ]
+    }
+  }
+}
