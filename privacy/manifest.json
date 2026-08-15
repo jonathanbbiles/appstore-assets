@@ -9,6 +9,13 @@
       "bytes": 1056
     },
     {
+      "app": "moodie",
+      "wp_page_slug": "moodie",
+      "url": "https://jonathanbbiles.github.io/appstore-assets/privacy/moodie.json",
+      "md5": "24c8b13b7c23871f87283567001965ed",
+      "bytes": 1658
+    },
+    {
       "app": "tassel",
       "wp_page_slug": "tassel",
       "url": "https://jonathanbbiles.github.io/appstore-assets/privacy/tassel.json",
