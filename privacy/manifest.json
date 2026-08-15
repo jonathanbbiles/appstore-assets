@@ -2,6 +2,13 @@
   "base_url": "https://jonathanbbiles.github.io/appstore-assets/privacy",
   "apps": [
     {
+      "app": "chordloop",
+      "wp_page_slug": "chordloop",
+      "url": "https://jonathanbbiles.github.io/appstore-assets/privacy/chordloop.json",
+      "md5": "a493b8d64f793f6713659bbd07ea03b3",
+      "bytes": 1056
+    },
+    {
       "app": "tassel",
       "wp_page_slug": "tassel",
       "url": "https://jonathanbbiles.github.io/appstore-assets/privacy/tassel.json",
