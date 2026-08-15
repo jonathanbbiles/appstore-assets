@@ -1,0 +1,160 @@
+{
+  "base_url": "https://jonathanbbiles.github.io/appstore-assets/site",
+  "apps": {
+    "chordloop": {
+      "icon": "https://jonathanbbiles.github.io/appstore-assets/site/chordloop/icon-1024.png",
+      "shots": [
+        {
+          "file": "01-iphone-69-01-tap-chords-build-a-loop.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/chordloop/shots/01-iphone-69-01-tap-chords-build-a-loop.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "02-iphone-69-02-sounds-and-feel.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/chordloop/shots/02-iphone-69-02-sounds-and-feel.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "03-iphone-69-03-presets-and-saved.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/chordloop/shots/03-iphone-69-03-presets-and-saved.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "04-iphone-69-04-pro-unlock.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/chordloop/shots/04-iphone-69-04-pro-unlock.png",
+          "pixels": "1290x2796"
+        }
+      ]
+    },
+    "moodie": {
+      "icon": "https://jonathanbbiles.github.io/appstore-assets/site/moodie/icon-1024.png",
+      "shots": [
+        {
+          "file": "01-iphone-6-9-01-pick-your-mood.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/moodie/shots/01-iphone-6-9-01-pick-your-mood.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "02-iphone-6-9-02-your-pick.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/moodie/shots/02-iphone-6-9-02-your-pick.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "03-iphone-6-9-03-watch-together.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/moodie/shots/03-iphone-6-9-03-watch-together.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "04-iphone-6-9-04-pass-the-phone.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/moodie/shots/04-iphone-6-9-04-pass-the-phone.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "05-iphone-6-9-05-everyone-happy.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/moodie/shots/05-iphone-6-9-05-everyone-happy.png",
+          "pixels": "1290x2796"
+        }
+      ]
+    },
+    "slowburn": {
+      "icon": "https://jonathanbbiles.github.io/appstore-assets/site/slowburn/icon-1024.png",
+      "shots": [
+        {
+          "file": "01-iphone69_01_welcome.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/slowburn/shots/01-iphone69_01_welcome.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "02-iphone69_02_program.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/slowburn/shots/02-iphone69_02_program.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "03-iphone69_03_consent.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/slowburn/shots/03-iphone69_03_consent.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "04-iphone69_04_checkins.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/slowburn/shots/04-iphone69_04_checkins.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "05-iphone69_05_pairing-choice.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/slowburn/shots/05-iphone69_05_pairing-choice.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "06-iphone69_06_pair-code.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/slowburn/shots/06-iphone69_06_pair-code.png",
+          "pixels": "1290x2796"
+        }
+      ]
+    },
+    "scootstep": {
+      "icon": "https://jonathanbbiles.github.io/appstore-assets/site/scootstep/icon-1024.png",
+      "shots": [
+        {
+          "file": "01-iphone69_1_tonight.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/scootstep/shots/01-iphone69_1_tonight.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "02-iphone69_2_library.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/scootstep/shots/02-iphone69_2_library.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "03-iphone69_3_detail.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/scootstep/shots/03-iphone69_3_detail.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "04-iphone69_4_learn.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/scootstep/shots/04-iphone69_4_learn.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "05-iphone69_5_tempo.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/scootstep/shots/05-iphone69_5_tempo.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "06-iphone69_6_basics.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/scootstep/shots/06-iphone69_6_basics.png",
+          "pixels": "1290x2796"
+        }
+      ]
+    },
+    "bullorbust": {
+      "icon": "https://jonathanbbiles.github.io/appstore-assets/site/bullorbust/icon-1024.png",
+      "shots": [
+        {
+          "file": "01-iphone-69-1-learn-trade.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/bullorbust/shots/01-iphone-69-1-learn-trade.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "02-iphone-69-2-learn-portfolio.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/bullorbust/shots/02-iphone-69-2-learn-portfolio.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "03-iphone-69-3-learn-lessons.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/bullorbust/shots/03-iphone-69-3-learn-lessons.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "04-iphone-69-4-live-paywall.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/bullorbust/shots/04-iphone-69-4-live-paywall.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "05-iphone-69-5-live-connect.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/bullorbust/shots/05-iphone-69-5-live-connect.png",
+          "pixels": "1290x2796"
+        }
+      ]
+    }
+  }
+}
