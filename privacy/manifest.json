@@ -16,6 +16,13 @@
       "bytes": 1658
     },
     {
+      "app": "permission",
+      "wp_page_slug": "permission",
+      "url": "https://jonathanbbiles.github.io/appstore-assets/privacy/permission.json",
+      "md5": "6766167f7d57dca00b8787cf66d5a3a8",
+      "bytes": 1725
+    },
+    {
       "app": "tassel",
       "wp_page_slug": "tassel",
       "url": "https://jonathanbbiles.github.io/appstore-assets/privacy/tassel.json",
