@@ -155,6 +155,36 @@
           "pixels": "1290x2796"
         }
       ]
+    },
+    "shaveme": {
+      "icon": "https://jonathanbbiles.github.io/appstore-assets/site/shaveme/icon-1024.png",
+      "shots": [
+        {
+          "file": "01-iphone69-1-overlay.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/shaveme/shots/01-iphone69-1-overlay.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "02-iphone69-2-styles.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/shaveme/shots/02-iphone69-2-styles.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "03-iphone69-3-photos.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/shaveme/shots/03-iphone69-3-photos.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "04-iphone69-4-care.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/shaveme/shots/04-iphone69-4-care.png",
+          "pixels": "1290x2796"
+        },
+        {
+          "file": "05-iphone69-5-kit.png",
+          "url": "https://jonathanbbiles.github.io/appstore-assets/site/shaveme/shots/05-iphone69-5-kit.png",
+          "pixels": "1290x2796"
+        }
+      ]
     }
   }
 }
